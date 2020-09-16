@@ -86,3 +86,31 @@ h2 {
     letter-spacing: 0.1rem;
     font-weight: 600;
 }
+
+.learn:hover {
+    background: rgba(255, 255, 255, 0.9);
+    color: black;
+}
+
+
+/*** 2EME SECTION ***/
+
+
+.img2 {
+    background-image: url('https://images.pexels.com/photos/2777105/pexels-photo-2777105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    height: 108rem;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/*** 3EME SECTION ***/
+
+
+.img3 {
+    background-image: url('https://images.pexels.com/photos/3476312/pexels-photo-3476312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    height: 108rem;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
