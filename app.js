@@ -4,7 +4,8 @@ var controller = new ScrollMagic.Controller();
 
 var scene = new ScrollMagic.Scene({
 
-    triggerElement: '.box1'
+    triggerElement: '.box1',
+    reverse : false
 
 })
 
