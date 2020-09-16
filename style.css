@@ -122,6 +122,16 @@ h2 {
     transition: all 0.4s linear;
 }
 
+.box2 {
+    opacity: 0;
+    transition: all 0.4s linear;
+}
+
+.box3 {
+    opacity: 0;
+    transition: all 0.4s linear;
+}
+
 .fade-in {
     opacity: 1;
 }
