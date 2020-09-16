@@ -10,6 +10,10 @@ var scene = new ScrollMagic.Scene({
 
 /* changer la class de box1 au scrolling */
 .setClassToggle('.box1', 'fade-in')
-
+.addIndicators({
+    name: 'INDICATIONS',
+    indent: 200,
+    colorStart: '#fff'
+})
 .addTo(controller);
 
